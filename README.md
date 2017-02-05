@@ -1,7 +1,7 @@
 # Unity-Fantastic-Gallery
 A beautiful UI gallery for Unity
 
-http://s9.picofile.com/file/8279848384/Fantastic_Gallery_Unity.gif
+![Unity Fantastic Gallery](http://s9.picofile.com/file/8279848384/Fantastic_Gallery_Unity.gif "Demo")
 
 You can use it to show your levels, scenes or other items list.
 Space between gallery items and their size calculate dynamicaly based on screen size.
