@@ -8,3 +8,5 @@ You can use it to show your levels, scenes or other items list.
 Space between gallery items and their size calculate dynamicaly based on screen size.
 
 You should asign your pre-designed items in MainCamera -> GalleryManager -> items array.
+
+Created with Unity 5.4.2
