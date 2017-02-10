@@ -1,4 +1,4 @@
-# Unity-Fantastic-Gallery
+# Unity Fantastic Gallery
 A beautiful UI gallery for Unity
 
 ![Unity Fantastic Gallery](http://s9.picofile.com/file/8279848384/Fantastic_Gallery_Unity.gif "Demo")
