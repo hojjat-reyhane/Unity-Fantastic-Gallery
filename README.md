@@ -1,8 +1,8 @@
 # Unity Fantastic Gallery
 
-This package is no more supported and got deprecated!
+<b>Notice:</b> This package is no more supported and got deprecated!
 
-Click [here][1] and get a more customizable and optimised gallery.
+Click<b> [here][1] </b>to get a <b>more customizable</b> and <b>optimised</b> version.
 
 ![Unity Fantastic Gallery](http://s9.picofile.com/file/8279848384/Fantastic_Gallery_Unity.gif "Demo")
 
