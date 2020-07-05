@@ -14,4 +14,4 @@ You should asign your pre-designed items in MainCamera -> GalleryManager -> item
 
 Created with Unity 5.4.2
 
-[1]: https://assetstore.unity.com/packages/tools/gui/gallery-level-selection-menu-pagination-and-scroll-snap-163640
+[1]: http://u3d.as/1Wh9
